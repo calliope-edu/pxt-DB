@@ -1,6 +1,6 @@
 {
     "name": "Sound Level in decibels (dB)",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "Block for measuring the ambient sound level",
     "license": "MIT",
     "dependencies": {
@@ -26,7 +26,8 @@
         "pxt": "11.1.5"
     },
     "supportedTargets": [
-        "microbit"
+        "microbit",
+        "calliopemini"
     ],
     "preferredEditor": "tsprj",
     "disablesVariants": [
